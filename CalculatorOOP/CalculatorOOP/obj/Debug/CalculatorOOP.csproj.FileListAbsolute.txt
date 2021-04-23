@@ -1,0 +1,7 @@
+C:\Users\Hafidz Naufal\Documents\GitHub\CalculatorOOP\CalculatorOOP\CalculatorOOP\bin\Debug\CalculatorOOP.exe.config
+C:\Users\Hafidz Naufal\Documents\GitHub\CalculatorOOP\CalculatorOOP\CalculatorOOP\bin\Debug\CalculatorOOP.exe
+C:\Users\Hafidz Naufal\Documents\GitHub\CalculatorOOP\CalculatorOOP\CalculatorOOP\bin\Debug\CalculatorOOP.pdb
+C:\Users\Hafidz Naufal\Documents\GitHub\CalculatorOOP\CalculatorOOP\CalculatorOOP\obj\Debug\CalculatorOOP.csprojAssemblyReference.cache
+C:\Users\Hafidz Naufal\Documents\GitHub\CalculatorOOP\CalculatorOOP\CalculatorOOP\obj\Debug\CalculatorOOP.csproj.CoreCompileInputs.cache
+C:\Users\Hafidz Naufal\Documents\GitHub\CalculatorOOP\CalculatorOOP\CalculatorOOP\obj\Debug\CalculatorOOP.exe
+C:\Users\Hafidz Naufal\Documents\GitHub\CalculatorOOP\CalculatorOOP\CalculatorOOP\obj\Debug\CalculatorOOP.pdb
